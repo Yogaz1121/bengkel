@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "MekanikPro",
+    "slug": "pos-bengkel",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true },
+    "android": { "package": "com.mekanikpro.posbengkel" },
+    "web": { "bundler": "metro" }
+  }
+}
